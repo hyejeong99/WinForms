@@ -1,0 +1,11 @@
+C:\Users\82104\source\repos\lightP03\lightP03\bin\Debug\lightP03.exe.config
+C:\Users\82104\source\repos\lightP03\lightP03\bin\Debug\lightP03.exe
+C:\Users\82104\source\repos\lightP03\lightP03\bin\Debug\lightP03.pdb
+C:\Users\82104\source\repos\lightP03\lightP03\obj\Debug\lightP03.csprojAssemblyReference.cache
+C:\Users\82104\source\repos\lightP03\lightP03\obj\Debug\lightP03.Form1.resources
+C:\Users\82104\source\repos\lightP03\lightP03\obj\Debug\lightP03.Form2.resources
+C:\Users\82104\source\repos\lightP03\lightP03\obj\Debug\lightP03.Properties.Resources.resources
+C:\Users\82104\source\repos\lightP03\lightP03\obj\Debug\lightP03.csproj.GenerateResource.cache
+C:\Users\82104\source\repos\lightP03\lightP03\obj\Debug\lightP03.csproj.CoreCompileInputs.cache
+C:\Users\82104\source\repos\lightP03\lightP03\obj\Debug\lightP03.exe
+C:\Users\82104\source\repos\lightP03\lightP03\obj\Debug\lightP03.pdb

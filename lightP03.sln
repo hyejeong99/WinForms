@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2017
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lightP03", "lightP03\lightP03.csproj", "{DFAB9C3D-5720-4F30-942A-12B0C7BA7F84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFAB9C3D-5720-4F30-942A-12B0C7BA7F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFAB9C3D-5720-4F30-942A-12B0C7BA7F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFAB9C3D-5720-4F30-942A-12B0C7BA7F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFAB9C3D-5720-4F30-942A-12B0C7BA7F84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD830ABD-BE2D-4210-B9BC-67B20CECC137}
+	EndGlobalSection
+EndGlobal
